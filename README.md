@@ -1,8 +1,6 @@
-<<<<<<< Updated upstream
 
-=======
 # Data Science Exploration Hub
-Welcome to my **Data Science Exploration Hub**! This repository is a space where I dive into the fascinating world of data science, exploring datasets from various domains and applying machine learning, statistical analysis, and data visualization techniques to uncover insights and build predictive models. Whether it's healthcare, finance, e-commerce, or social trends, I aim to tackle real-world problems and share my findings.
+Hello Everyone, I am Subrat Kumar. Welcome to my **Data Science Exploration Hub**! This repository is a space where I dive into the fascinating world of data science, exploring datasets from various domains and applying machine learning, statistical analysis, and data visualization techniques to uncover insights and build predictive models. Whether it's healthcare, finance, e-commerce, or social trends, I aim to tackle real-world problems and share my findings.
 
 ## What You'll Find Here
 - **Diverse Projects**: From predicting diseases to analyzing customer behavior, I explore datasets across multiple domains.
@@ -23,7 +21,6 @@ This project is licensed under the MIT License. Feel free to use, modify, and sh
 
 ## Feedback
 If you have any comments and feedback, feel free to reach out to me: **w.subrat@gmail.com**
----
 
+---
 Let's explore the world of data together! 🚀
->>>>>>> Stashed changes
