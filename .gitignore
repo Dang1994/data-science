@@ -1,0 +1,43 @@
+# Todo
+folder_name/
+anaconda_projects/
+bank/
+calgary Crime/
+Classification/
+Crop Yield Prediction/
+Hotel/
+House Price Prediction/
+Red Wine Quality/
+Regression/
+sales/
+Smart Cities/
+health/Cardiovascular Disease/
+health/Heart Stroke
+health/Medical Expenses
+health/Osteoporosis Risk
+health/Pima Indians Diabetes
+health/Sleep Disorder
+
+# Ignore compiled files
+*.exe
+*.dll
+*.class
+
+# Ignore dependency directories
+node_modules/
+venv/
+.env
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+.virtual_documents
+.ipynb_checkpoints
+
+# Ignore logs and databases
+*.log
+*.sqlite
